@@ -13,9 +13,9 @@
         "type": "image/png"
       },
     {
-      "src": ":/mzdev/iconlogo5.png",
+      "src": ":/mzdev/iconlogo5.svg",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/svg"
     }
      
     ]
