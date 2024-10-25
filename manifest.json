@@ -2,7 +2,7 @@
     "name": "Mzdungus-dev",
     "short_name": "Mzdungus",
     "description": "Portfelio.",
-    "start_url": "/",
+    "start_url": "/mzdev/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#4CAF50",
